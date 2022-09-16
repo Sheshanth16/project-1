@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @Sheshanth16
-- 👀 I’m interested in artificial intelligence and machine learning
-- 🌱 I’m currently studying computer science engineering 
